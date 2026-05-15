@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ToshikoKanna/BisPU-Bis-tracker-of-President-University-unonfficial-/static/css/main.f855e6bc.css",
+    "main.js": "/ToshikoKanna/BisPU-Bis-tracker-of-President-University-unonfficial-/static/js/main.76819275.js",
+    "static/js/453.3685c138.chunk.js": "/ToshikoKanna/BisPU-Bis-tracker-of-President-University-unonfficial-/static/js/453.3685c138.chunk.js",
+    "static/media/logo.svg": "/ToshikoKanna/BisPU-Bis-tracker-of-President-University-unonfficial-/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ToshikoKanna/BisPU-Bis-tracker-of-President-University-unonfficial-/index.html",
+    "main.f855e6bc.css.map": "/ToshikoKanna/BisPU-Bis-tracker-of-President-University-unonfficial-/static/css/main.f855e6bc.css.map",
+    "main.76819275.js.map": "/ToshikoKanna/BisPU-Bis-tracker-of-President-University-unonfficial-/static/js/main.76819275.js.map",
+    "453.3685c138.chunk.js.map": "/ToshikoKanna/BisPU-Bis-tracker-of-President-University-unonfficial-/static/js/453.3685c138.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.76819275.js"
+  ]
+}
